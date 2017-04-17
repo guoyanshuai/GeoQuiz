@@ -5,8 +5,8 @@ package com.guide.guolaotou.geoquiz.Question;
  */
 
 public class Question {
-    private int mTextResId;
-    private boolean mAnswerTure;
+    private  int mTextResId;
+    private  boolean mAnswerTure;
 
     public Question(int textResId, boolean answerTure) {
         mTextResId = textResId;
